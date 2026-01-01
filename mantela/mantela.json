@@ -51,6 +51,18 @@
 			"name": "MIKANETEL",
 			"prefix": "510",
 			"mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json"
+		},
+		{
+			"name": "zin3",
+			"identifier": "498a3211-0f85-42a7-b2c0-44fb7095bd67",
+			"prefix": "333",
+			"mantela": "https://zin3.cc/.well-known/mantela.json"
+		},
+		{
+			"identifier": "3be47f94-3185-4198-ac3d-ca5ccb573cc2",
+			"name": "yude",
+			"prefix": "390",
+			"mantela": "https://www.yude.jp.eu.org/.well-known/mantela.json"
 		}
 	]
 }
