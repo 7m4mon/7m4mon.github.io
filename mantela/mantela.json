@@ -63,6 +63,12 @@
 			"name": "yude",
 			"prefix": "390",
 			"mantela": "https://www.yude.jp.eu.org/.well-known/mantela.json"
+		},
+		{
+			"name": "SHINANOTEL",
+			"identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
+			"prefix": "661",
+			"mantela": "https://da-tenshi.github.io/mantela.json"
 		}
 	]
 }
